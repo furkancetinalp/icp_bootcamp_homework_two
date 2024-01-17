@@ -1,6 +1,7 @@
 Instruction
 
 main.rs => main file that makes user interactions
+
 word_counter.rs => a distinct file that contains related Struct and its implementations using Traits
 
 main.rs
